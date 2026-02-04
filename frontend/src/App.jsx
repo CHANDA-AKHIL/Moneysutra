@@ -9,7 +9,7 @@ import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 import { SidebarProvider } from "@/components/ui/sidebar";
 import BudgetPage from "./Pages/Budget/BudgetPage";
-import Register from "./Pages/Registration/Register";
+import Register from "./Pages/registration/Register";
 import Login from "./Pages/Registration/Login";
 import DriveFilesViewer from "./Pages/PDF/pdf";
 import { useLocation } from "react-router-dom";
