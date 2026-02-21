@@ -1,5 +1,5 @@
-# MoneyMitra 💰
-MoneyMitra is your personal multilingual financial companion, designed to help you manage your investments, track your portfolio, and make informed financial decisions. Whether you're a beginner or an experienced investor, MoneyMitra provides the tools and insights you need to grow your wealth.
+# MoneySutra 💰
+MoneySutra is your personal multilingual financial companion, designed to help you manage your investments, track your portfolio, and make informed financial decisions. Whether you're a beginner or an experienced investor, MoneySutra provides the tools and insights you need to grow your wealth.
 
 ## Features ✨
 - **Portfolio Tracking**: Monitor SIPs, MFs, Bonds, Stocks, FDs, and Insurance in real-time.
@@ -9,7 +9,7 @@ MoneyMitra is your personal multilingual financial companion, designed to help y
 - **Performance Analysis**: Compare portfolio performance and track portfolio data.
 
 ## Tech Stack 🛠️
-MoneyMitra is built using modern technologies to ensure a seamless and secure user experience:
+MoneySutra is built using modern technologies to ensure a seamless and secure user experience:
 
 - **Frontend**: React, Tailwind CSS, ShadCN UI
 - **Backend**: Flask, Firebase
